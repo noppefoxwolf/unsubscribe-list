@@ -40,6 +40,11 @@
 |レアジョブ|✖️||
 |楽天銀行ニュース|✖️||
 |Atmoph Inc|○||
+|クラウドサイン|○||
+|Suzuri|✖️||
+|(SQUARE ENIX MARKET)[sqmarket@square-enix.com]|✖️||
+|WEAR|✖️||
+|Forkwell 運営事務局 <info@forkwell.com>|○||
 
 # コントリビューション
 
