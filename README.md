@@ -48,6 +48,7 @@
 |【リクルートID】 <addp@point.recruit.co.jp>|✖️||
 |ポイント家電　運営事務局 <info@point-kaden.jp>|✖️|unsubscribeボタンなし|
 |LinkedIn <messages-noreply@linkedin.com>|○||
+|popIn Aladdin <noreply@popin.cc>|○||
 
 # コントリビューション
 
